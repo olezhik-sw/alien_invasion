@@ -43,6 +43,9 @@ The goal is to shoot down incoming aliens and survive as long as possible!
     ├── main.py
     ├── settings.py
     ├── alien.py
+    ├── button.py
+    ├── lifes.py
+    ├── score.py
     ├── ship.py
     ├── bullet.py
     ├── images/
