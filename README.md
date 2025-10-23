@@ -22,11 +22,11 @@ The goal is to shoot down incoming aliens and survive as long as possible!
 ## ▶️ How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/alien_game.git
+   git clone https://github.com/olezhik-sw/alien_invasion.git
 
 2. Navigate to the project folder:
     ```bash
-    cd alien_game
+    cd alien_invasion
 
 3. Install dependencies:
     ```bash
@@ -37,7 +37,7 @@ The goal is to shoot down incoming aliens and survive as long as possible!
     python main.py
 
 ## 📂 Project Structure
-    ```css
+
     alien_game/
     │
     ├── main.py
